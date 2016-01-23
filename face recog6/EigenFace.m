@@ -1,14 +1,4 @@
 %% #################### Facial Expression Recognition #####################
-%%     This program is written by Md. Iftekhar Tanveer
-%%                   (go2chayan@gmail.com)
-%% Many conceptions here are taken from:
-%% M. Turk and A. Pentland, "Eigenfaces for Recognition", Journal of
-%% Cognitive Neuroscience, March 1991
-%%
-%% =======================================================================
-%% If the 'Cropped' or 'Test_Cropped' folder is not ready, run Crop_Face.m
-%% =======================================================================
-%%
 %% This code requires the following toolboxes:
 %%          1. Image Processing Toolbox (For Resizing Image)
 %%          2. Statistics Toolbox (For PCA)
